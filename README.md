@@ -1,2 +1,9 @@
-# cities-api
-api de pais/estado/cidade
+# Cities API
+
+## DataBase
+### Postgres
+### Postgres Docker Hub
+
+## Types
+### JsonTypes
+### UserType
